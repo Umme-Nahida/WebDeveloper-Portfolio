@@ -110,4 +110,23 @@ main{
 
 }
 
+/* -----------------------------------------------skill container style-------------------------------------- */
+.skill-container{
+    display: flex;
+    justify-content: space-around; 
+    gap: 20px;  
+    padding: 50px 0; 
+}
+.skill{
+    background-color: white;
+    flex-basis: 400px;
+    max-height: 600px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 1px rgb(92, 91, 91);
+}
+
+.skill img{
+    margin-bottom: 5px;
+}
 
