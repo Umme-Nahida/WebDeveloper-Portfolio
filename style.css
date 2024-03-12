@@ -192,7 +192,17 @@ footer{
     margin-top: 100px;
 
 }
-
+.footer-title{
+    color: #181818;
+    /* text-align: center; */
+    font-size: 45px;
+    font-weight: 700;
+}
+.footer-description{
+    color: #757575;
+    font-size: 18px;
+    text-align: left;
+}
 .footer-column{
     text-align: left;
     width: 50%;
@@ -206,6 +216,7 @@ footer{
     color: #757575;
     border-radius: 5px;
     margin-bottom: 25px;
+    font-size: 18px;
 
 }
 .contact input[type="submit"]{
@@ -213,5 +224,6 @@ footer{
     background-color: #FD6E0A;
     border: none;
     color: white;
+    font-size: 18px;
 }
 
